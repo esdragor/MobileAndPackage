@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a6ca3ad0-f6c0-4346-9632-76a902fbb128" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MobileAndPackage/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MobileAndPackage/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilities.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +13,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../Archi/IOC/Assets/Scripts/Compositor.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Archi/IOC/Assets/Scripts/Service/GameService/GameService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Source/Helpers.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -70,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674554428126</updated>
-      <workItem from="1674554428453" duration="2024000" />
+      <workItem from="1674554428453" duration="3617000" />
     </task>
     <servers />
   </component>

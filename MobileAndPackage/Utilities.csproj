@@ -42,6 +42,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Source\Log\log.cs" />
+     <Compile Include="Assets\Source\Helpers.cs" />
      <None Include="Assets\Source\package.json" />
      <None Include="Assets\Source\Utilities.asmdef" />
      <Reference Include="UnityEngine">
