@@ -7,7 +7,7 @@ using Debug = UnityEngine.Debug;
 public class log : MonoBehaviour
 {
     [Conditional("DEBUG")]
-    public void Log(string t)
+    public static void Log(string t)
     {
         Debug.Log(t);
     }
