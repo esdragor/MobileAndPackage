@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a6ca3ad0-f6c0-4346-9632-76a902fbb128" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MobileAndPackage/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MobileAndPackage/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Utilities.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Source/Helpers.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Helpers.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +12,22 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../Archi/IOC/Assets/Scripts/Compositor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Archi/IOC/Assets/Scripts/FightService/IFightService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Archi/IOC/Assets/Scripts/GeneratorGenericSingleton.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Archi/IOC/Assets/Scripts/Service/AudioService/AudioService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Archi/IOC/Assets/Scripts/Service/AudioService/IAudioService.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Archi/IOC/Assets/Scripts/Service/GameService/GameService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Archi/IOC/Assets/Scripts/Service/IUIService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Archi/IOC/Assets/Scripts/Service/SceneService/ISceneService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Archi/IOC/Assets/Scripts/Service/SceneService/SceneService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Archi/IOC/Assets/Scripts/Service/Tickable/ITickable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Archi/IOC/Assets/Scripts/Service/Tickable/ITickableSwitchable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Archi/IOC/Assets/Scripts/Service/UIService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Archi/IOC/Assets/Scripts/Turn.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Archi/IOC/Library/PackageCache/com.cysharp.unitask@b992a061fb/Runtime/UniTaskScheduler.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Source/Helpers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Source/Log/log.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Source/package.json" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -72,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674554428126</updated>
-      <workItem from="1674554428453" duration="3617000" />
+      <workItem from="1674554428453" duration="10760000" />
     </task>
     <servers />
   </component>
